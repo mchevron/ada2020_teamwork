@@ -1,2 +1,3 @@
 # ada2020_teamwork
-ADA 2020
+ADA 2020 
+Team members:
